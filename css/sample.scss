@@ -669,8 +669,8 @@ h1{
           font-size: 2rem;
           padding-bottom: 20px;
         }
-        
-        li {
+        .news_li {
+          li {
           padding-bottom: 5px;
           
           span {
@@ -679,6 +679,8 @@ h1{
             margin-bottom: 0;
           }
         }
+      }
+      //news_li
       }
       //container
 }

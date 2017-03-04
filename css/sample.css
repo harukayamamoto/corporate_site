@@ -375,9 +375,9 @@ h1 {
       #contents .container h2 {
         font-size: 2rem;
         padding-bottom: 20px; }
-      #contents .container li {
+      #contents .container .news_li li {
         padding-bottom: 5px; }
-        #contents .container li span {
+        #contents .container .news_li li span {
           display: inline-block;
           padding-right: 10px;
           margin-bottom: 0; }
