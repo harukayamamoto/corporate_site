@@ -404,7 +404,9 @@ h1 {
         border-bottom: 1px solid #e5e5e5;
         margin-bottom: 0;
         padding: 10px 10px 10px 20px;
-        background-size: 4px 8px; } }
+        background-size: 4px 8px; }
+        #sidebar .pc_sidemenu ul li a {
+          text-decoration: none; } }
 /* company.html---------------------*/
 .company_title {
   margin-bottom: 0px; }
